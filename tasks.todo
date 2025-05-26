@@ -1,0 +1,4 @@
+✔ Creating the skeleton of the entire UI in HTML . @started(25-05-26 14:46) @done(25-05-26 14:50) @lasted(4m26s)
+✔ Adding Stying :) as currently it looks completely empty so adding before the JS logic is a must @started(25-05-26 14:51) @done(25-05-26 15:48) @lasted(57m2s)
+☐ Adding the core logic for the game's functionality: @started(25-05-26 16:08)
+    ✔ Inially , we would create a function which would be loaded either when the page is loaded or when the new game button shall be clicked as this would first set the game-info to X , the div containers to empty and hide the new game button @started(25-05-26 16:17) @done(25-05-26 23:48) @lasted(7h31m29s)
